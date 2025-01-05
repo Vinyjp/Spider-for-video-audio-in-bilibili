@@ -27,6 +27,7 @@
   'python 1.4request.py'
 
 3.  根据提示输入以下信息：
+ 
  1. 音频流的 URL：Bilibili 音频流地址。(通过爬虫软件爬取）
  2. Cookies 的 SESSDATA：从浏览器开发者工具或请求中获取的 Bilibili 登录状态 Cookie。
  3. 原频的 URL：对应的 Bilibili 视频页面地址。
