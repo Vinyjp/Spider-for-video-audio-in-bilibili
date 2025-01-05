@@ -21,11 +21,12 @@
 'pip install requests'
 
 ### 2. 脚本运行
-
- 1.克隆或下载此项目到本地。
- 2.运行脚本 1.4request.py：
+1.克隆或下载此项目到本地。
+ 
+2.运行脚本 1.4request.py：
   'python 1.4request.py'
- 3.  根据提示输入以下信息：
+ 
+3.  根据提示输入以下信息：
   •  音频流的 URL：Bilibili 音频流地址。(通过爬虫软件爬取）
   •  Cookies 的 SESSDATA：从浏览器开发者工具或请求中获取的 Bilibili 登录状态 Cookie。
   •  原视频的 URL：对应的 Bilibili 视频页面地址。
