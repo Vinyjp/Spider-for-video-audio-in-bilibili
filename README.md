@@ -42,14 +42,14 @@
 
 示例输入
 运行脚本后按提示输入以下内容：
-'请输入音频流的URL: https://example.com/audio_url.m4s
-请输入cookies-sessdata: your_sessdata_value
-请输入原视频的URL: https://www.bilibili.com/video/example_video'
+1.  请输入音频流的URL: https://example.com/audio_url.m4s
+2.  请输入cookies-sessdata: your_sessdata_value
+3.  请输入原视频的URL: https://www.bilibili.com/video/example_video'
 
 示例输出
 '音频流下载完成！'
 
-### 4. License
+## 4. License
 该项目仅供学习使用，禁止任何商业用途。
 
 
